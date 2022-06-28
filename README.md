@@ -1,2 +1,2 @@
 # PacMan
-PacMan movement on click and bouncing in boundaries
+PacMan movement on click, and bouncing in boundaries
